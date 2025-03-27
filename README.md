@@ -7,7 +7,6 @@ I'm a software engineer & data scientist passionate about building intelligent, 
 #### 🎓 Education
 - **University of California, San Diego**  
   B.S. in Data Science, Sep 2021 – Mar 2025  
-  GPA: 3.8 · Provost Honors (7x)
 
 - **University of Southern California**  
   M.S. in Computer Science (AI), Aug 2025 – Dec 2026 (Incoming)
@@ -15,12 +14,12 @@ I'm a software engineer & data scientist passionate about building intelligent, 
 ---
 
 #### 🚀 Experience
-- 💻 **Incoming SDE Intern @ Amazon** (May – July 2025)
+- 💻 **SDE Intern @ Amazon** (May – July 2025)
 
 - 🧠 **ML Intern @ National Library of Medicine (NIH)**  
   Built an LLM system to extract social determinants of health from EHRs using LangChain, LoRA, and prompt engineering.
 
-- 🔬 **Data Science Intern @ HDSI, UCSD**  
+- 🔬 **Data Science Intern @ Halıcıoğlu Data Science Institute**  
   Created a causal inference pipeline for data lake exploration. Work accepted at VLDB 2024.
 
 - 🔗 **Blockchain SWE Intern @ UCSD Biomedical Informatics**  
