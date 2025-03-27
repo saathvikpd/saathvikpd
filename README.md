@@ -46,12 +46,5 @@ I'm a software engineer & data scientist passionate about building intelligent, 
 
 ---
 
-### 📈 GitHub Stats
-
-![Saathvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saathvikpd&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saathvikpd&layout=compact&theme=tokyonight)
-
----
-
 ### 🧩 Let’s Connect!
 📫 [Email](mailto:saathvik.pd@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/saathvik-dirisala-4a1817197) | 💻 [GitHub](https://github.com/saathvikpd)
