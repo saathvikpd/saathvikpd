@@ -1,15 +1,15 @@
-### 👋 Hi there, I'm Saathvik Dirisala!
+## 👋 Hi there, I'm Saathvik Dirisala!
 
-I'm a software engineer & data scientist passionate about building intelligent, scalable systems.
+I'm a software engineer & data scientist passionate about building intelligent, scalable systems. I am currently pursuing my M.S. in Computer Science (sp. in AI) at the University of Southern California. I am super passionate about machine learning and artifical intelligence and hope to contribute to research at the frontiers of the fields.
 
 ---
 
 #### 🎓 Education
 - **University of California, San Diego**  
-  B.S. in Data Science, Sep 2021 – Mar 2025  
+  B.S. in Data Science (ML + AI), Sep 2021 – Mar 2025  
 
 - **University of Southern California**  
-  M.S. in Computer Science (AI), Aug 2025 – Dec 2026 (Incoming)
+  M.S. in Computer Science (AI), Aug 2025 – Dec 202g
 
 ---
 
