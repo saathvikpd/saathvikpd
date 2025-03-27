@@ -4,7 +4,7 @@ I'm a software engineer & data scientist passionate about building intelligent, 
 
 ---
 
-#### 🎓 Education
+### 🎓 Education
 - **University of California, San Diego**  
   B.S. in Data Science (ML + AI), Sep 2021 – Mar 2025  
 
@@ -13,7 +13,7 @@ I'm a software engineer & data scientist passionate about building intelligent, 
 
 ---
 
-#### 🚀 Experience
+### 🚀 Experience
 - 💻 **SDE Intern @ Amazon** (May – July 2025)
 
 - 🧠 **ML Intern @ National Library of Medicine (NIH)**  
@@ -30,7 +30,7 @@ I'm a software engineer & data scientist passionate about building intelligent, 
 
 ---
 
-#### 📚 Publications
+### 📚 Publications
 - **DEMA: Enhancing Causal Analysis through Data Enrichment and Discovery in Data Lakes**  
   _S. Dirisala, K. Heravi, B. Salimi_  
   *TaDA Workshop @ VLDB 2024*  
@@ -38,7 +38,7 @@ I'm a software engineer & data scientist passionate about building intelligent, 
 
 ---
 
-#### 🧰 Skills
+### 🧰 Skills
 **Languages**: Python, JavaScript, Java, Solidity, SQL  
 **ML & AI**: PyTorch, TensorFlow, Hugging Face, LangChain  
 **Data/Infra**: Spark, Hadoop, MongoDB, PostgreSQL, Docker, AWS  
@@ -46,12 +46,12 @@ I'm a software engineer & data scientist passionate about building intelligent, 
 
 ---
 
-#### 📈 GitHub Stats
+### 📈 GitHub Stats
 
 ![Saathvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saathvikpd&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saathvikpd&layout=compact&theme=tokyonight)
 
 ---
 
-#### 🧩 Let’s Connect!
+### 🧩 Let’s Connect!
 📫 [Email](mailto:saathvik.pd@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/saathvik-dirisala-4a1817197) | 💻 [GitHub](https://github.com/saathvikpd)
