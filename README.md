@@ -12,7 +12,7 @@ I'm a software engineer & data scientist passionate about building intelligent, 
 ---
 
 ### 🚀 Experience
-- 💻 **SDE Intern @ Amazon** (May – July 2025)
+- 💻 **Incoming SDE Intern @ Amazon** (May – July 2025)
 
 - 🧠 **ML Intern @ National Library of Medicine (NIH)**  
   Built an LLM system to extract social determinants of health from EHRs using LangChain, LoRA, and prompt engineering.
@@ -24,7 +24,7 @@ I'm a software engineer & data scientist passionate about building intelligent, 
   Engineered smart contracts for managing hierarchical patient consent; placed 3rd in iDASH Privacy & Security competition.
 
 - 🤖 **AI Engineer @ IPMD Inc.**  
-  Deployed CV models with AWS SageMaker, reduced latency with async media pipelines, and boosted CNN accuracy by 28%.
+  Deployed CV models with AWS SageMaker, reduced latency with async media pipelines, and boosted CNN accuracy.
 
 ---
 
