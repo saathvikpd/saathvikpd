@@ -7,9 +7,7 @@ I'm a software engineer & data scientist passionate about building intelligent, 
 ### 🎓 Education
 - **University of California, San Diego**  
   B.S. in Data Science (ML + AI), Sep 2021 – Mar 2025  
-
-- **University of Southern California**  
-  M.S. in Computer Science (AI), Aug 2025 – Dec 2026
+  M.S. in Machine Learning & Data Science, Sept 2025 – Dec 2026
 
 ---
 
