@@ -32,7 +32,7 @@ I'm a software engineer & data scientist passionate about building intelligent, 
 - **DEMA: Enhancing Causal Analysis through Data Enrichment and Discovery in Data Lakes**  
   _S. Dirisala, K. Heravi, B. Salimi_  
   *TaDA Workshop @ VLDB 2024*  
-  [🔗 Read it here](https://tabular-data-analysis.github.io/tada2024/papers/TaDA.12.pdf)
+  [Read it here](https://tabular-data-analysis.github.io/tada2024/papers/TaDA.12.pdf)
 
 ---
 
