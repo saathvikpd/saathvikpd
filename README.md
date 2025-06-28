@@ -1,16 +1,20 @@
-## 👋 Hi there, I'm Saathvik Dirisala!
+## 👋 Hi, I'm Saathvik Dirisala!
 
 I'm a software engineer & data scientist passionate about building intelligent, scalable systems. I have a strong interest in machine learning and artifical intelligence and hope to contribute at the frontiers of the fields.
 
 ---
 
 ### 🎓 Education
-- **University of California, San Diego**  
+- **University of California, San Diego**
+  M.S. in ML & Data Science, Sep 2025 - Dec 2026
   B.S. in Data Science (ML + AI), Sep 2021 – Mar 2025  
 
 ---
 
 ### 🚀 Experience
+- 📱 **SDE Intern @ Amazon**  
+  Working on Amazon's Shopping Assistant---Rufus.
+  
 - 🧠 **ML Intern @ National Library of Medicine (NIH)**  
   Built an LLM system to extract social determinants of health from EHRs using LangChain, LoRA, and prompt engineering.
 
