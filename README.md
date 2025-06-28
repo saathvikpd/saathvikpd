@@ -6,15 +6,16 @@ I'm a software engineer & data scientist passionate about building intelligent, 
 
 ### 🎓 Education
 - **University of California, San Diego**
-  M.S. in ML & Data Science, Sep 2025 - Dec 2026
   
+  M.S. in ML & Data Science, Sep 2025 - Dec 2026
+
   B.S. in Data Science (ML + AI), Sep 2021 – Mar 2025  
 
 ---
 
 ### 🚀 Experience
 - 📱 **SDE Intern @ Amazon**  
-  Working on Amazon's Shopping Assistant---Rufus.
+  Working on Amazon's Shopping Assistant - Rufus.
   
 - 🧠 **ML Intern @ National Library of Medicine (NIH)**  
   Built an LLM system to extract social determinants of health from EHRs using LangChain, LoRA, and prompt engineering.
@@ -39,9 +40,12 @@ I'm a software engineer & data scientist passionate about building intelligent, 
 ---
 
 ### 🧰 Skills
-**Languages**: Python, JavaScript, Java, Solidity, SQL  
-**ML & AI**: PyTorch, TensorFlow, Hugging Face, LangChain  
-**Data/Infra**: Spark, Hadoop, MongoDB, PostgreSQL, Docker, AWS  
+**Languages**: Python, Java, R, JavaScript, Solidity, SQL
+
+**ML & AI**: PyTorch, TensorFlow, Transformers, LangChain
+
+**Data/Infra**: Spark, Hadoop, MongoDB, PostgreSQL, Docker, AWS
+
 **Web**: React, Node.js, Express, Firebase, FastAPI, D3.js
 
 ---
