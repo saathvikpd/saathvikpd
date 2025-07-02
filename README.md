@@ -12,8 +12,7 @@
   <!-- Contact / Social links -->
   <p>
     <a href="mailto:saathvik.pd@gmail.com">Email</a> ·
-    <a href="https://linkedin.com/in/saathvik-dirisala-4a1817197">LinkedIn</a> ·
-    <a href="https://github.com/saathvikpd">GitHub</a>
+    <a href="https://linkedin.com/in/saathvik-dirisala-4a1817197">LinkedIn</a>
   </p>
 
 </div>
@@ -88,7 +87,7 @@
 
 <!-- ---------- Skills ---------- -->
 <h2>Skills</h2>
-<p><strong>Languages:</strong> Python, Java, R, JavaScript, Solidity, SQL</p>
+<p><strong>Languages:</strong> Python, Java, R, JavaScript, Scala, SQL</p>
 <p><strong>ML&nbsp;&amp;&nbsp;AI:</strong> PyTorch, TensorFlow, Transformers, LangChain</p>
 <p><strong>Data / Infra:</strong> Spark, Hadoop, MongoDB, PostgreSQL, Docker, AWS</p>
 <p><strong>Web:</strong> React, Node.js, Express, Firebase, FastAPI, D3.js</p>
@@ -100,5 +99,4 @@
 <p>
   <a href="mailto:saathvik.pd@gmail.com">Email</a> &nbsp;|&nbsp;
   <a href="https://linkedin.com/in/saathvik-dirisala-4a1817197">LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com/saathvikpd">GitHub</a>
 </p>
