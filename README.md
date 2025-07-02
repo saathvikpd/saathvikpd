@@ -98,5 +98,5 @@
 <h2>Let’s Connect!</h2>
 <p>
   <a href="mailto:saathvik.pd@gmail.com">Email</a> &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/saathvik-dirisala-4a1817197">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/saathvik-dirisala-4a1817197">LinkedIn</a>
 </p>
