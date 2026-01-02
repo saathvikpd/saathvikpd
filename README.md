@@ -40,8 +40,7 @@
   <tr>
     <td>
       <strong>MLE Intern @ DoorDash</strong><br/>
-      Developed an ML framework for encoding multimodal item features. 
-      Generated Semantic IDs for entire catalog using residual quantization.
+      Developed an ML framework for encoding multimodal item features & generated Semantic IDs using residual quantization.
     </td>
   </tr>
   <tr>
