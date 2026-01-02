@@ -3,10 +3,10 @@
 
   <h1>Saathvik Dirisala</h1>
 
-  <p><strong>Software Engineer&nbsp;&amp;&nbsp;Data Scientist</strong></p>
+  <p><strong>ML Engineer&nbsp;&amp;&nbsp;Data Scientist</strong></p>
 
   <p>
-    I'm a software engineer & data scientist passionate about building intelligent, scalable systems. I have a strong interest in machine learning and artifical intelligence and hope to contribute at the frontiers of the fields.
+    I'm an ML engineer & data scientist passionate about building intelligent, scalable systems. I have a strong interest in machine learning and artifical intelligence and hope to contribute at the frontiers of the fields.
   </p>
 
   <!-- Contact / Social links -->
@@ -24,7 +24,7 @@
 <ul style="list-style-type:none; padding:0;">
   <li>
     <strong>University of California, San Diego</strong><br/>
-    M.S. in ML &amp; Data Science, Sep&nbsp;2025 – Dec&nbsp;2026<br/>
+    M.S. in ML &amp; Data Science, Jun&nbsp;2025 – Present<br/>
     B.S. in Data Science&nbsp;(ML + AI), Sep&nbsp;2021 – Mar&nbsp;2025
   </li>
 </ul>
@@ -39,8 +39,15 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="8">
   <tr>
     <td>
+      <strong>MLE Intern @ DoorDash</strong><br/>
+      Developed an ML framework for encoding multimodal item features. 
+      Generated Semantic IDs for entire catalog using residual quantization.
+    </td>
+  </tr>
+  <tr>
+    <td>
       <strong>SDE Intern @ Amazon</strong><br/>
-      Working on Amazon’s Shopping Assistant&nbsp;– Rufus.
+      Contributed to Amazon’s AI Shopping Assistant&nbsp;– Rufus.
     </td>
   </tr>
   <tr>
